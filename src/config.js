@@ -11,6 +11,6 @@ const config = {
     {
       id: "insertion",
       func: insertionSort
-    },
+    }
   ]
-}
+};
